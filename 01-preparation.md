@@ -2,7 +2,7 @@
 
 ## 01 - Preparation
 
-1. Cek software-software yang dibutuhkan seperti, `XAMPP/Laragon/WAMP/MAMP/UwAmp/LAMP` atau sebagainya. Pastikan sudah menggunakan PHP dengan versi minimal 8.1. Jangan lupa install composer untuk mendownload package-packagenya laravel.
+1. Cek software-software yang dibutuhkan seperti, `XAMPP/Laragon/WAMP/MAMP/LAMP` atau sebagainya. Pastikan sudah menggunakan PHP dengan versi minimal 8.1. Jangan lupa install composer untuk mendownload package-packagenya laravel.
 
 2. Buka folder tempat menyimpan laravel, lalu buka ke terminal atau command prompt, lalu ketikkan command berikut:
 
